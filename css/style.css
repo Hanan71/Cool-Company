@@ -1,0 +1,81 @@
+/* === General Styles === */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* === Header Section === */
+  header {
+    background: hsl(210, 17%, 98%);
+    color: #333;
+  }
+  
+  header h1 {
+    font-weight: 700;
+  }
+  
+  header p {
+    font-size: 1.1rem;
+  }
+  
+  /* === Navbar Active Link === */
+  .navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #7ba6ea !important;
+  }
+  
+  /* === Footer === */
+  footer {
+    font-size: 0.9rem;
+  }
+  
+  /* === Card Hover Effect (Team) === */
+  .card:hover {
+    transform: scale(1.03);
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* === FAQ Styling === */
+  .accordion-button {
+    background-color: #f0f0f0;
+    font-weight: 600;
+  }
+  
+  .accordion-button:focus {
+    box-shadow: none;
+  }
+  
+  .accordion-body {
+    background-color: #fff;
+  }
+  
+  /* === Contact Form === */
+  form .form-control:focus {
+    border-color: #7ba6ea;
+    box-shadow: 0 0 0 0.2rem rgba(14, 14, 15, 0.25);
+  }
+  
+  .custom-btn {
+    background-color: #7ba6ea; 
+    color: white;
+    border: none;
+  }
+  
+  .custom-btn:hover {
+    background-color: #8694aa; /* اذا مررت يصير أغمق   */
+  }
+  
+  .fade-in-up {
+    opacity: 0;
+    transform: translateY(30px);
+    animation: fadeInUp 1s ease forwards;
+  }
+  
+  @keyframes fadeInUp {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
