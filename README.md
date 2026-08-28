@@ -27,7 +27,7 @@ This project was built as a practical technical assessment during the cooperativ
 ## 📱 Responsive Design & Screenshots
 The website is fully responsive and optimized across multiple viewports (Desktop, Tablet, and Mobile).
 
-| Desktop View | Content & Services | Contact & Footer |
+| Home page View | Content & Services | Frequently Questions |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/9a15f76c-9bc9-49f9-8996-8c276dc67f86" width="300" /> | <img src="https://github.com/user-attachments/assets/d947198e-84b7-4185-9b76-c9b640297aa8" width="300" /> | <img src="https://github.com/user-attachments/assets/d09e443b-df29-4534-afd5-0b9251a8101f" width="300" /> |
 
