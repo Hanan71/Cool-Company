@@ -39,6 +39,10 @@ The website is fully responsive and optimized across multiple viewports (Desktop
 ## 👩‍💻 Developer
 Hanane71 – This project was created as part of my web development training.
 
+> **🚀 Modernized Version Available:**  
+> An upgraded, full-stack version of this project built with **ASP.NET Core MVC** is now available.  
+> 
+> [![View MVC Version](https://img.shields.io/badge/Upgraded_Version-ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e)](https://github.com/Hanan71/CoolCompanyMVC/tree/main) 👈 Click here to explore the updated MVC project
 ---
 
 ### Notes
