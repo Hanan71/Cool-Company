@@ -18,7 +18,9 @@ This project is a demo web page I created as part of my training to develop user
 ---
 
 ## 💡 Overview
-<img width="60" align="right" alt="Jawraa Logo" src="https://github.com/user-attachments/assets/537d8b0a-1a0c-4e9b-8b23-13292f1aaa32" />
+<a href="https://www.jawraa.com/" target="_blank">
+  <img width="60" align="right" alt="Jawraa Logo" src="https://github.com/user-attachments/assets/537d8b0a-1a0c-4e9b-8b23-13292f1aaa32" />
+</a>
 
 This project was built as a practical technical assessment during the cooperative training / internship evaluation at **Jawraa (شركة جوراء)**. The objective was to develop a modern, corporate, and fully responsive landing page demonstrating core front-end engineering skills, clean semantic HTML5 markup, and modern CSS layout techniques.
 
